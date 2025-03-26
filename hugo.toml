@@ -14,7 +14,7 @@ theme = "PaperMod"
     name = "github"
     url = "https://github.com/OnePaperHoon"
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML"]
 
 
 [menu]
