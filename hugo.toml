@@ -6,17 +6,20 @@ theme = "PaperMod"
 [params]
   showReadingTime = true
   defaultTheme = "auto"
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   mainSections = ["posts"]
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/OnePaperHoon"
+
 
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
-
   [[menu.main]]
     name = "Posts"
     url = "posts/"
