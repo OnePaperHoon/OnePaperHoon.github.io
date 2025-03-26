@@ -10,9 +10,6 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   mainSections = ["posts"]
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/OnePaperHoon"
 
 [menu]
   [[menu.main]]
