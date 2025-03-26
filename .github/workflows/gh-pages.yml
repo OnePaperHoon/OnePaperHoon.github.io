@@ -20,7 +20,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://onepaperhoon.github.io/"
+        run: hugo --minify --baseURL "https://onepaperhoon.github.io:443/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
