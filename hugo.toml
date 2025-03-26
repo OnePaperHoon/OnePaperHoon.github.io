@@ -10,7 +10,6 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   mainSections = ["posts"]
-  env = "production"
 
 [menu]
   [[menu.main]]
