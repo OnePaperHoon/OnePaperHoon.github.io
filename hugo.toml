@@ -22,6 +22,6 @@ theme = "PaperMod"
     weight = 2
   [[menu.main]]
     name = "OpenGL"
-    url = "OpenGL/"
+    url = "opengl/"
     weight = 3
 
