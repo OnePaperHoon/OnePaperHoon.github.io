@@ -4,8 +4,8 @@ title = "OnePaperHoon Dev Blog"
 theme = "PaperMod"
 
 [params]
-  showReadingTime = true
   defaultTheme = "auto"
+  showReadingTime = false
   ShowShareButtons = false
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
@@ -20,4 +20,8 @@ theme = "PaperMod"
     name = "Posts"
     url = "posts/"
     weight = 2
+  [[menu.main]]
+    name = "OpenGL"
+    url = "OpenGL/"
+    weight = 3
 
