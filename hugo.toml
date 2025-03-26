@@ -13,9 +13,6 @@ theme = "PaperMod"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/OnePaperHoon"
-[outputs]
-  home = ["HTML"]
-
 
 [menu]
   [[menu.main]]
