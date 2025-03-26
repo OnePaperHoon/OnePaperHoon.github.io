@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hungry/</loc>
+    <loc>--minify/posts/hungry/</loc>
     <lastmod>2025-03-26T10:51:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>--minify/</loc>
     <lastmod>2025-03-26T10:51:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>--minify/posts/</loc>
     <lastmod>2025-03-26T10:51:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/home-test/</loc>
+    <loc>--minify/posts/home-test/</loc>
     <lastmod>2025-03-26T10:26:36+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
+    <loc>--minify/posts/hello/</loc>
     <lastmod>2025-03-26T10:14:36+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>--minify/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>--minify/tags/</loc>
   </url>
 </urlset>
