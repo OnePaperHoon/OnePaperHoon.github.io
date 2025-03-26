@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>--minify/posts/hungry/</loc>
+    <loc>https://onepaperhoon.github.io:1313/</loc>
+    <lastmod>2025-03-26T12:38:03+09:00</lastmod>
+  </url><url>
+    <loc>https://onepaperhoon.github.io:1313/posts/</loc>
+    <lastmod>2025-03-26T12:38:03+09:00</lastmod>
+  </url><url>
+    <loc>https://onepaperhoon.github.io:1313/posts/whygotolocal/</loc>
+    <lastmod>2025-03-26T12:38:03+09:00</lastmod>
+  </url><url>
+    <loc>https://onepaperhoon.github.io:1313/posts/hungry/</loc>
     <lastmod>2025-03-26T10:51:29+09:00</lastmod>
   </url><url>
-    <loc>--minify/</loc>
-    <lastmod>2025-03-26T10:51:29+09:00</lastmod>
-  </url><url>
-    <loc>--minify/posts/</loc>
-    <lastmod>2025-03-26T10:51:29+09:00</lastmod>
-  </url><url>
-    <loc>--minify/posts/home-test/</loc>
+    <loc>https://onepaperhoon.github.io:1313/posts/home-test/</loc>
     <lastmod>2025-03-26T10:26:36+09:00</lastmod>
   </url><url>
-    <loc>--minify/posts/hello/</loc>
+    <loc>https://onepaperhoon.github.io:1313/posts/hello/</loc>
     <lastmod>2025-03-26T10:14:36+09:00</lastmod>
   </url><url>
-    <loc>--minify/categories/</loc>
+    <loc>https://onepaperhoon.github.io:1313/categories/</loc>
   </url><url>
-    <loc>--minify/tags/</loc>
+    <loc>https://onepaperhoon.github.io:1313/tags/</loc>
   </url>
 </urlset>

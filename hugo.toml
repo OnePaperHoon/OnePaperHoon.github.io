@@ -10,11 +10,11 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   mainSections = ["posts"]
-  disableKinds = ["taxonomy", "term"]
+
 [menu]
   [[menu.main]]
     name = "Home"
-    url = ""
+    url = "/"
     weight = 1
 
   [[menu.main]]
