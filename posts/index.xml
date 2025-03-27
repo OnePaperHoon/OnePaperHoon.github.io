@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on OnePaperHoon Dev Blog</title><link>https://onepaperhoon.github.io/posts/</link><description>Recent content in Posts on OnePaperHoon Dev Blog</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Wed, 26 Mar 2025 17:17:35 +0900</lastBuildDate><atom:link href="https://onepaperhoon.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenGL</title><link>https://onepaperhoon.github.io/posts/opengl/opengl/</link><pubDate>Wed, 26 Mar 2025 17:17:35 +0900</pubDate><guid>https://onepaperhoon.github.io/posts/opengl/opengl/</guid><description>&lt;h1 id="opengl이란">OpenGL이란?&lt;/h1></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on OnePaperHoon Dev Blog</title><link>https://onepaperhoon.github.io/posts/</link><description>Recent content in Posts on OnePaperHoon Dev Blog</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 07:11:57 +0900</lastBuildDate><atom:link href="https://onepaperhoon.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo 사용하면서 정리</title><link>https://onepaperhoon.github.io/posts/hugo/</link><pubDate>Fri, 28 Mar 2025 07:11:57 +0900</pubDate><guid>https://onepaperhoon.github.io/posts/hugo/</guid><description>&lt;h2 id="make-new-post">Make New Post&lt;/h2>
+&lt;ol>
+&lt;li>hugo new [path]/[name].md&lt;/li>
+&lt;li>그리고 obisidian에서 작성&lt;/li>
+&lt;/ol>
+&lt;h2 id="hugo-server--d">hugo server -D&lt;/h2>
+&lt;p>Live Server로 보면서 작성 가능 단점은 라이브 서버를 빌드 할 경우
+public이라는 폴더가 생성된걸 깃허브에 올릴 경우 url이 꼬여서 페이지 로드가
+안될수 있음&lt;/p>
+&lt;h2 id="categories-">categories =&lt;/h2>
+&lt;p>블로그의 content 파일 구조는&lt;/p>
+&lt;pre tabindex="0">&lt;code>├── content
+│   └── posts
+│   ├── OpenGL
+│   │   └── \010What is OpenGL.md
+│   ├── hugo.md
+│   └── 공부정리.md
+&lt;/code>&lt;/pre>&lt;p>이렇게 되어 있는데 때문에 글을 정리 할때는 ctategories = [folder name] 으로 정리한다.&lt;/p></description></item><item><title>OpenGL</title><link>https://onepaperhoon.github.io/posts/opengl/what-is-opengl/</link><pubDate>Fri, 28 Mar 2025 07:08:28 +0900</pubDate><guid>https://onepaperhoon.github.io/posts/opengl/what-is-opengl/</guid><description/></item><item><title>공부정리</title><link>https://onepaperhoon.github.io/posts/%EA%B3%B5%EB%B6%80%EC%A0%95%EB%A6%AC/</link><pubDate>Fri, 28 Mar 2025 07:02:04 +0900</pubDate><guid>https://onepaperhoon.github.io/posts/%EA%B3%B5%EB%B6%80%EC%A0%95%EB%A6%AC/</guid><description/></item></channel></rss>
