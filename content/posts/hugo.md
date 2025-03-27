@@ -1,6 +1,6 @@
 +++
 date = '2025-03-28T07:11:57+09:00'
-draft = false
+draft = true
 title = 'Hugo 사용하면서 정리'
 +++
 
@@ -39,3 +39,4 @@ Vscode에서 PolaCode로 이미지화 시켜서 적용한다
 > Static/images폴더에 넣어둔 이미지를 찾아서 넣고싶다면 슬프게도 obisidian과  
 > hugo에서의 경로 인식이 다르기 때문에 images폴더에 있는 것에 접근할때 
 > static은 빼고 images/imagename.png 로 접근해야함
+
