@@ -9,7 +9,7 @@ theme = "PaperMod"
   ShowShareButtons = false
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
-  mainSections = ["posts"]
+  mainSections = ["content"]
 
 [menu]
   [[menu.main]]
