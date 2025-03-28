@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0153be6d89b2957c",
+        "id": "d3d373f1c24d8a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e56d9c4f23355fff",
+            "id": "25d6ec1dea6b1372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hugo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hugo"
+              "title": "새 탭"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hugo 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hugo 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hugo 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -168,11 +161,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e56d9c4f23355fff",
+  "active": "25d6ec1dea6b1372",
   "lastOpenFiles": [
+    "hugo.md",
     "OpenGL/\bWhat is OpenGL.md",
     "공부정리.md",
-    "hugo.md",
     "static/images/Hugo.png.md",
     "Hugo.png",
     "static/images",
